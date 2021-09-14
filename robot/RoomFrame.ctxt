@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RoomFrame
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r
+comment2.target=RoomFrame(Room)
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=text
+comment4.target=javax.swing.JButton\ createButton(java.lang.String)
+comment5.params=text\ color
+comment5.target=javax.swing.JButton\ createButton(java.lang.String,\ java.awt.Color)
+comment6.params=ae
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7

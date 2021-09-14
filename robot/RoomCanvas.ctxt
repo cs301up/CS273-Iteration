@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RoomCanvas
+comment1.params=r
+comment1.target=RoomCanvas(Room)
+comment2.params=g
+comment2.target=void\ drawFrame(java.awt.Graphics)
+comment2.text=\r\n\ draw\ one\ frame\ of\ the\ animation\r\n\r\n\ @param\ g\ \ the\ graphics\ object\r\n
+comment3.params=
+comment3.target=java.awt.Dimension\ dimension()
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RobotDirection
+comment1.params=id\ turnLeft\ turnRight\ reverseOrientation\ rotateOrientation
+comment1.target=RobotDirection(java.lang.Integer,\ java.util.function.Supplier,\ java.util.function.Supplier,\ boolean,\ boolean)
+comment2.params=lookupID
+comment2.target=RobotDirection\ getById(int)
+comment3.params=
+comment3.target=RobotDirection\ turnLeft()
+comment4.params=
+comment4.target=RobotDirection\ turnRight()
+comment5.params=
+comment5.target=boolean\ isValidDirection()
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rock
+comment1.params=
+comment1.target=Rock()
+comment2.params=r
+comment2.target=boolean\ setRoom(Room)
+comment3.params=g\ r
+comment3.target=void\ paintIn(java.awt.Graphics,\ java.awt.Rectangle)
+numComments=4
