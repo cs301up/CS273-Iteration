@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AnimationCanvas
+comment0.text=\r\n\ A\ canvas\ that\ does\ an\ animation.\r\n\r\n\ Such\ an\ animation\ may\ have\ problems\ if\ animation\ objects\ are\ added\r\n\ while\ an\ animation\ is\ running.\r\n\ \r\n\ @author\ Steven\ R.\ Vegdahl\r\n\ @version\ 9\ February\ 2019\r\n
+comment1.params=
+comment1.target=AnimationCanvas()
+comment1.text=\r\n\ constructor\ for\ AnimationCanvas\r\n
+comment2.params=
+comment2.target=void\ start()
+comment2.text=\r\n\ starts\ the\ animation\ thread\r\n\ <P>\r\n\ Technically,\ this\ should\ probably\ be\ synchronized\r\n
+comment3.params=
+comment3.target=void\ stop()
+comment3.text=\r\n\ stops\ the\ animation\ thread\r\n
+comment4.params=a
+comment4.target=void\ addAnimated(RoomCanvas)
+comment4.text=\r\n\ add\ an\ object\ to\ our\ animation\r\n\ \r\n\ @param\ a\ \ the\ object\ to\ add\r\n
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment5.text=\r\n\ paints\ the\ canvas\r\n\ \r\n\ @param\ g\ \ the\ graphics\ object\ on\ which\ to\ paint\r\n
+comment6.params=g
+comment6.target=void\ doPaint(java.awt.Graphics)
+comment6.text=\r\n\ paints\ the\ canvas\r\n\ \r\n\ @param\ g\ \ the\ graphics\ object\ on\ which\ to\ paint\r\n
+numComments=7

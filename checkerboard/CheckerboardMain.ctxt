@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CheckerboardMain
+comment0.text=\r\n\ This\ class\ contains\ the\ basic\ window\ creation\ and\ paint\ functions\ for\ the\r\n\ Checkerboard\ app.\r\n\r\n\ Students\:\ \ YOU\ MAY\ NOT\ EDIT\ THIS\ FILE\r\n\r\n\ @author\ Steve\ Vegdahl\r\n\ @author\ Andrew\ Nuxoll\r\n\r\n\ Change\ Log\:\r\n\ Jan\ 2013\:\ changed\ from\ applet\ to\ app\ (\:AMN\:)\r\n\ Jan\ 2013\:\ added\ to\ frame\ height\ so\ buttons\ would\ not\ be\ partially\ off\ bottom\ (vegdahl)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Create\ the\ window\ and\ display\ to\ user\r\n
+comment2.params=
+comment2.target=CheckerboardMain()
+comment3.params=g
+comment3.target=void\ drawCheckerboard(java.awt.Graphics)
+comment3.text=\r\n\ A\ helper\ method\ for\ paint()\ that\ draws\ the\ checkerboard.\ \ Students\r\n\ implement\ this\ so\ the\ functionality\ is\ isolated.\r\n
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment4.text=\r\n\ Draws\ the\ window\ content\r\n
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.text=\r\n\ When\ the\ user\ presses\ a\ button,\ increment/decrement\ numSquares\r\n\ appropriately\r\n
+numComments=6

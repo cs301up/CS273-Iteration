@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Checkerboard
+comment0.text=\r\n\ The\ class\ Checkerboard\ displays\ an\ NxN\ checkerboard\ on\ the\ screen.\ It\ extends\r\n\ the\ CheckerboardMain\ class\ which\ handles\ all\ the\ mouse\ interactions.\r\n\r\n\ This\ class\ inherits\ the\ numSquares\ variable\ from\ CheckerboardMain.\ That\r\n\ variable\ specifies\ the\ number\ of\ squares\ along\ one\ side\ of\ the\ checkerboard.\r\n\ So,\ for\ an\ NxN\ checkerboard,\ numSquares\ \=\ N.\ The\ CheckerboardMain\ class\ will\r\n\ modify\ this\ variable\ in\ response\ to\ mouse-clicks.\r\n
+comment1.params=g
+comment1.target=void\ drawCheckerboard(java.awt.Graphics)
+comment1.text=\r\n\ Paints\ the\ app's\ image\ on\ the\ graphics\ window.\r\n\r\n\ @param\ g\ -\ The\ app's\ Graphics\ object\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Boxes
+comment0.text=\r\n\ The\ class\ Boxes\ displays\ concentric\ rectangles\ on\ the\ screen\ in\ alternating\r\n\ colors.\ It\ extends\ the\ BoxesMain\ class\ which\ handles\ all\ the\ mouse\r\n\ interactions.\r\n\r\n\ This\ class\ inherits\ the\ numBoxes\ variables\ from\ BoxesMain.\ That\ variable\r\n\ specifies\ the\ number\ of\ boxes\ to\ be\ drawn.\ The\ BoxesMain\ class\ will\ modify\r\n\ this\ variable\ in\ response\ to\ mouse-clicks.\r\n
+comment1.params=g
+comment1.target=void\ drawBoxes(java.awt.Graphics)
+comment1.text=\r\n\ Paints\ the\ image\ on\ the\ graphics\ window\r\n\r\n\ @param\ g\ -\ a\ Graphics\ object\r\n
+numComments=2
