@@ -24,33 +24,7 @@ public class Checkerboard extends CheckerboardMain {
      *
      * @param g - The app's Graphics object
      */
-    public void drawCheckerboard(Graphics g) {
-        //for(initial value; condition; change)
-        
-        
-        
-        for(int i = 0; i < numSquares; i++) { 
-            System.out.println(i);
-            
-        }
-        
-        // i = 0,  numSquares = 5
-        // printout: 0
-        // i = 1, numSquares = 5
-        // printout: 1
-        // i = 2, numSquares = 5
-        // printout: 2
-        // i = 3, numSquares = 5
-        // printout: 3
-        // i = 4, numSquares = 5
-        // printout: 4        
-        // i = 5, numSquares = 5
-
-        
-        
-        
-        
-        
+    public void drawCheckerboard(Graphics g) {        
         //Do nothing for now
     }//drawCheckerboard
 }//class Checkerboard
